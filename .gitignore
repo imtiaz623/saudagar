@@ -1,3 +1,8 @@
-node_modules
-.next
-.env*.local
+out/  
+.firebase/  
+*.exe  
+.env*.local 
+node_modules/ 
+out/ 
+.firebase/ 
+.env*.local 
