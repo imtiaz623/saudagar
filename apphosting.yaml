@@ -1,0 +1,10 @@
+runConfig: 
+  minInstances: 0 
+  maxInstances: 2 
+env: 
+  - variable: APPS_SCRIPT_URL 
+    value: https://script.google.com/macros/s/AKfycbzTKiXmDXwbZzEROvkLEUbrR8RdXpnTyyqHFoa06CM-XebnTXjp4qE7_FI9dpYhr8EvsQ/exec 
+  - variable: APPS_SCRIPT_TOKEN 
+    secret: apps-script-token 
+  - variable: NEXT_PUBLIC_SITE_URL 
+    value: https://saudagar-app-2026.web.app
