@@ -1,3 +1,4 @@
-export default { images: { remotePatterns: [
-  { protocol: 'https', hostname: 'firebasestorage.googleapis.com' },
-  { protocol: 'https', hostname: 'storage.googleapis.com' }] } };
+export default {
+  output: 'export',
+  images: { unoptimized: true },
+};

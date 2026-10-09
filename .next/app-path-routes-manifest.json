@@ -1,8 +1,8 @@
 {
   "/_not-found/page": "/_not-found",
-  "/track/page": "/track",
   "/shop/page": "/shop",
-  "/cart/page": "/cart",
+  "/track/page": "/track",
   "/checkout/page": "/checkout",
+  "/cart/page": "/cart",
   "/page": "/"
 }
